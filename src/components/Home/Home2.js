@@ -52,7 +52,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-            <img src={myImg} className="img-fluid rounded-circle" alt="avatar" />
+            <img src={"https://res.cloudinary.com/dpdh2nryr/image/upload/v1729011508/uploads/jmpwipduglak5khed3uk.jpg"} className="img-fluid rounded-circle" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
